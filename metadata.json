@@ -1,0 +1,6 @@
+{
+  "name": "Lereng Asri",
+  "description": "Portal ekowisata pegunungan, homestay desa, dan pemandu lokal di Desa Wisata Lereng Asri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
